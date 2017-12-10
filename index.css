@@ -1,0 +1,39 @@
+#header
+{
+	height : 15%;
+	text-align : center;
+	margin-bottom: 30px;
+	border:2px solid black;
+}
+#header.h1
+{
+	margin:auto;
+}
+#section
+{
+	height : 90%;
+}
+#imageLogo
+{
+	float:right;
+	height :inherit;
+	width:20%;
+	left:0px;
+}
+#loginTitle
+{
+	position:absolute;
+	padding:auto;
+	width:80%;
+}
+
+#formDivision
+{
+	text-align:center;
+	margin: auto;
+}
+label.ex
+{
+	background-color:red;
+	width:300px;
+}
